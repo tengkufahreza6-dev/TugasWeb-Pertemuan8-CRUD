@@ -3,10 +3,11 @@ class Database {
     private static $instance = null;
     private $conn;
 
-    private $host = "localhost";
-    private $user = "root";
-    private $pass = "";
-    private $dbname = "inventaris_db";
+    // Masukkan detail dari cPanel InfinityFree
+    private $host = "sql101.infinityfree.com"; // Sesuaikan Hostname kamu
+    private $user = "if0_42923419";            // Sesuaikan Username kamu
+    private $pass = "eqHotQXo2AihnmR";           // Sesuaikan Password kamu
+    private $dbname = "if0_42923419_crud";     // Sesuaikan Database Name kamu
 
     private function __construct() {
         try {
