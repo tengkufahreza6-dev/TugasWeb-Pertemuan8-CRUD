@@ -12,7 +12,6 @@ Aplikasi web manajemen inventaris barang yang dibangun dengan **PHP Native + PDO
 ## 🔗 Tautan Repositori
 
 - **GitHub Repository:** [TugasWeb-Pertemuan8-CRUD](https://github.com/tengkufahreza6-dev/TugasWeb-Pertemuan8-CRUD)
-- **Live Demo / Deployment:** *(Opsional — isi jika sudah deploy)*
 
 ---
 
